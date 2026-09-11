@@ -20,7 +20,7 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-Plese be notice that I am using cuda version 13.2. Please check your own cuda verson and install the right pytorch with cuda.
+Plese be notice that I am using cuda version 13.2. Please check your own cuda version and install the right pytorch with cuda.
 
 ## Start jupyter notebook
 ```
