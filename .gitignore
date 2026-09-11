@@ -12,3 +12,5 @@ __pycache__/
 
 # model
 ModelAndDatasets/llama-42m/
+ModelAndDatasets/data/
+models/
